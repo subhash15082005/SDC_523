@@ -44,8 +44,7 @@ Dependencies
 
 License
 This project is licensed under the MIT License.
-
-Author
-•tarunteja
+Developed by
+ K.Subhash Chandra
 •GitHub: Your GitHub Profile
 Feel free to contribute or suggest improvements!
